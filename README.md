@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Falling Petals Animation -->
-![petals](https://github.com/yunjeong/yunjeong/blob/main/petals.svg)
+![petals](https://github.com/uskkkk/uskkkk/blob/main/petals.svg)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&pause=1200&color=E75480&center=true&vCenter=true&width=600&lines=✿+Hello%2C+I'm+your-name+✿;Welcome+to+my+GitHub+🌸)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yunjeong&color=e75480&style=flat-square&label=✦+visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=uskkkk&color=e75480&style=flat-square&label=✦+visitors)
 
 </div>
 
@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yunjeong&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f3&title_color=e75480&icon_color=ff8fab&text_color=6e3d4f"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjeong&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f3&title_color=e75480&text_color=6e3d4f"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uskkkk&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f3&title_color=e75480&icon_color=ff8fab&text_color=6e3d4f"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskkkk&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f3&title_color=e75480&text_color=6e3d4f"/>
 </div>
 
 ---
@@ -56,6 +56,6 @@
 <!-- Falling Petals Animation (bottom) -->
 <div align="center">
 
-![petals](https://github.com/yunjeong/yunjeong/blob/main/petals.svg)
+![petals](https://github.com/uskkkk/uskkkk/blob/main/petals.svg)
 
 </div>
