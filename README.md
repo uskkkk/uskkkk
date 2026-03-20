@@ -94,16 +94,6 @@ public class Useong extends Developer {
 
 ---
 
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=uskkkk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
