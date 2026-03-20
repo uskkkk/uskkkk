@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Falling Petals Animation -->
-![petals](https://github.com/uskkkk/uskkkk/blob/main/petals.svg)
+![petals](https://raw.githubusercontent.com/uskkkk/uskkkk/main/petals.svg)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&pause=1200&color=E75480&center=true&vCenter=true&width=600&lines=✿+Hello%2C+I'm+your-name+✿;Welcome+to+my+GitHub+🌸)](https://git.io/typing-svg)
@@ -56,6 +56,6 @@
 <!-- Falling Petals Animation (bottom) -->
 <div align="center">
 
-![petals](https://github.com/uskkkk/uskkkk/blob/main/petals.svg)
+![petals](https://raw.githubusercontent.com/uskkkk/uskkkk/main/petals.svg)
 
 </div>
