@@ -69,6 +69,11 @@
 <br />
 
 <p align="center">
-  <samp>REACH</samp><br />
-  <a href="mailto:dntjd4562@gmail.com">dntjd4562@gmail.com</a>
+  <samp>REACH</samp>
+</p>
+
+<p align="center">
+  <a href="mailto:dntjd4562@gmail.com">
+    <img src="https://img.shields.io/badge/dntjd4562%40gmail.com-1f2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
