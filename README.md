@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme-header.svg" width="100%" alt="Backend Engineer README" />
+  <img src="./readme-header.png" width="100%" alt="Backend Engineer README" />
 </p>
 
 <br />
